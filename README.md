@@ -1,0 +1,2 @@
+# CH582_PCB_SCH
+自制CH582 PCB  SCH源文件  
